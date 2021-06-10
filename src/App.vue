@@ -1,7 +1,6 @@
 <template>
    <router-link to='/'>Acceuil</router-link>
-   <router-link to='/about'>About</router-link>
-u
+ <router-link to='/about'>About</router-link>
   <router-view></router-view>
 
 </template>
